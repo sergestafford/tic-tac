@@ -1,3 +1,3 @@
-# tic-tac
+# tic-tac-toe
 
 HERE'S A SIMPLE TIC-TAC-TOE GAME
